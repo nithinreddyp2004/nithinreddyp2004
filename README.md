@@ -1,5 +1,4 @@
 # Hi there, I'm Nithin Reddy! 👋
-
 🎓 Aspiring Data Scientist | 📍 Bengaluru, India
 
 I'm passionate about turning data into actionable insights using Machine Learning and Python. Currently pursuing a Data Science course and actively building real-world ML projects.
@@ -31,15 +30,29 @@ I'm passionate about turning data into actionable insights using Machine Learnin
 
 ### 📉 [Customer Churn Prediction](https://github.com/nithinreddyp2004/customer-churn-prediction) | [🚀 Live App](https://customer-churn-prediction28.streamlit.app/)
 > Predicts whether a customer will churn using Random Forest | 85% accuracy | Deployed with Streamlit
-> 
-> `Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
+
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
 
 ---
 
 ### 🩺 [Diabetes Prediction](https://github.com/nithinreddyp2004/diabetes-prediction) | [🚀 Live App](https://diabetes-prediction-23.streamlit.app/)
 > Predicts diabetes risk from medical inputs using Logistic Regression | Deployed with Streamlit
->
-> `Python` `Pandas` `Logistic Regression` `Streamlit` `PIMA Dataset`
+
+`Python` `Pandas` `Logistic Regression` `Streamlit` `PIMA Dataset`
+
+---
+
+### 👔 [Employee Attrition Intelligence](https://github.com/nithinreddyp2004/employee-attrition-intelligence) | [🚀 Live App](https://employee-attrition-intelligence-6.streamlit.app/)
+> Predicts whether an employee is likely to leave the company using Logistic Regression | Deployed with Streamlit
+
+`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Streamlit`
+
+---
+
+### 🛒 [Retail Customer Segmentation](https://github.com/nithinreddyp2004/retail-customer-segmentation) | [🚀 Live App](https://retail-customer-segmentation1.streamlit.app/)
+> Segments retail customers into groups using K-Means Clustering and RFM Analysis | Deployed with Streamlit
+
+`Python` `Pandas` `Scikit-learn` `K-Means` `RFM Analysis` `Streamlit`
 
 ---
 

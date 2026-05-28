@@ -55,6 +55,17 @@ I'm passionate about turning data into actionable insights using Machine Learnin
 `Python` `Pandas` `Scikit-learn` `K-Means` `RFM Analysis` `Streamlit`
 
 ---
+---
+
+### 🍽️ [Smart Restaurant Business Analytics](https://github.com/nithinreddyp2004/smart-restaurant-business-analytics) | [🚀 Live App](https://smart-restaurant-business-analytics.streamlit.app/)
+
+> A complete restaurant analytics dashboard with EDA, customer segmentation, sales prediction, and recommendation system using Machine Learning and Streamlit.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly` `K-Means` `Random Forest` `EDA`
+
+---
+
+---
 
 ## 📊 GitHub Stats
 

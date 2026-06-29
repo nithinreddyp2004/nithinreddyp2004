@@ -1,83 +1,119 @@
 # Hi there, I'm Nithin Reddy! 👋
-🎓 Aspiring Data Scientist | 📍 Bengaluru, India
 
-I'm passionate about turning data into actionable insights using Machine Learning and Python. Currently pursuing a Data Science course and actively building real-world ML projects.
+🎓 **Aspiring Data Scientist & Machine Learning Engineer** | 📍 Bengaluru, India
+
+I'm passionate about transforming data into meaningful insights using **Machine Learning, Python, and Data Analytics**. I enjoy building end-to-end ML applications with interactive frontends, REST APIs, and deployment using modern tools like **FastAPI**, **Streamlit**, and **Docker**. I'm continuously learning and building real-world projects to strengthen my AI and software development skills.
 
 ---
 
 ## 🔧 Skills & Tools
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 💻 Programming Languages
+- Python
+- SQL
 
-**Libraries & Frameworks:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+### 📚 Libraries & Frameworks
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Streamlit
+- FastAPI
 
-**Other:**
-![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
-![OOPs](https://img.shields.io/badge/OOPs-9C27B0?style=flat)
+### 🛠️ Tools & Technologies
+- Docker
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
----
-
-## 📂 Projects
-
-### 📉 [Customer Churn Prediction](https://github.com/nithinreddyp2004/customer-churn-prediction) | [🚀 Live App](https://customer-churn-prediction28.streamlit.app/)
-> Predicts whether a customer will churn using Random Forest | 85% accuracy | Deployed with Streamlit
-
-`Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
-
----
-
-### 🩺 [Diabetes Prediction](https://github.com/nithinreddyp2004/diabetes-prediction) | [🚀 Live App](https://diabetes-prediction-23.streamlit.app/)
-> Predicts diabetes risk from medical inputs using Logistic Regression | Deployed with Streamlit
-
-`Python` `Pandas` `Logistic Regression` `Streamlit` `PIMA Dataset`
+### 📖 Concepts
+- Machine Learning
+- Statistics
+- Data Analysis
+- Data Visualization
+- Object-Oriented Programming (OOP)
+- REST API Development
 
 ---
 
-### 👔 [Employee Attrition Intelligence](https://github.com/nithinreddyp2004/employee-attrition-intelligence) | [🚀 Live App](https://employee-attrition-intelligence-6.streamlit.app/)
-> Predicts whether an employee is likely to leave the company using Logistic Regression | Deployed with Streamlit
+# 📂 Projects
 
-`Python` `Pandas` `Scikit-learn` `Logistic Regression` `Streamlit`
+## 📉 Customer Churn Prediction | 🚀 Live App
 
----
+Predicts whether a customer will churn using a **Random Forest Classifier** with **85% accuracy**. Deployed using **Streamlit** for interactive predictions.
 
-### 🛒 [Retail Customer Segmentation](https://github.com/nithinreddyp2004/retail-customer-segmentation) | [🚀 Live App](https://retail-customer-segmentation1.streamlit.app/)
-> Segments retail customers into groups using K-Means Clustering and RFM Analysis | Deployed with Streamlit
-
-`Python` `Pandas` `Scikit-learn` `K-Means` `RFM Analysis` `Streamlit`
-
----
----
-
-### 🍽️ [Smart Restaurant Business Analytics](https://github.com/nithinreddyp2004/smart-restaurant-business-analytics) | [🚀 Live App](https://smart-restaurant-business-analytics.streamlit.app/)
-
-> A complete restaurant analytics dashboard with EDA, customer segmentation, sales prediction, and recommendation system using Machine Learning and Streamlit.
-
-`Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly` `K-Means` `Random Forest` `EDA`
+**Tech Stack:**  
+Python • Pandas • Scikit-learn • Random Forest • Streamlit
 
 ---
 
----
+## 🩺 Diabetes Prediction | 🚀 Live App
 
-## 📊 GitHub Stats
+Predicts diabetes risk from medical inputs using **Logistic Regression**. Built with an interactive **Streamlit** interface.
 
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinreddyp2004&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddy-nithin-p)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nithinreddyp62@gmail.com)
+**Tech Stack:**  
+Python • Pandas • Logistic Regression • Streamlit • PIMA Dataset
 
 ---
 
-⭐ *Feel free to explore my repositories and leave a star if you find something useful!*
+## 👔 Employee Attrition Intelligence | 🚀 Live App
+
+Predicts whether an employee is likely to leave the company using **Logistic Regression** with a user-friendly Streamlit interface.
+
+**Tech Stack:**  
+Python • Pandas • Scikit-learn • Logistic Regression • Streamlit
+
+---
+
+## 🛒 Retail Customer Segmentation | 🚀 Live App
+
+Segments retail customers using **K-Means Clustering** and **RFM Analysis** to identify valuable customer groups.
+
+**Tech Stack:**  
+Python • Pandas • Scikit-learn • K-Means • RFM Analysis • Streamlit
+
+---
+
+## 🍽️ Smart Restaurant Business Analytics | 🚀 Live App
+
+An end-to-end restaurant analytics dashboard featuring **Exploratory Data Analysis (EDA)**, **Customer Segmentation**, **Sales Prediction**, and a **Recommendation System**.
+
+**Tech Stack:**  
+Python • Pandas • Scikit-learn • Streamlit • Plotly • K-Means • Random Forest • EDA
+
+---
+
+## 🏦 Loan Approval Prediction System
+
+Predicts whether a loan application will be **Approved** or **Rejected** using a **Random Forest Classifier**. This project demonstrates an end-to-end Machine Learning deployment with a **FastAPI REST API**, **Streamlit frontend**, and **Docker** for containerized deployment.
+
+### Key Features
+- Loan approval prediction using Machine Learning
+- FastAPI REST API for model inference
+- Interactive Streamlit web interface
+- Dockerized deployment
+- Real-time predictions
+
+**Tech Stack:**  
+Python • Pandas • NumPy • Scikit-learn • Random Forest • FastAPI • Streamlit • Docker
+
+---
+
+# 📊 GitHub Stats
+
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinreddyp2004&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinreddyp2004&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+- 💻 **GitHub:** https://github.com/nithinreddyp2004
+- 💼 **LinkedIn:** https://www.linkedin.com/in/reddy-nithin-p/
+- 📧 **Email:** nithinreddyp62@gmail.com
+
+---
+
+⭐ **Feel free to explore my repositories and leave a ⭐ if you find something useful!**
